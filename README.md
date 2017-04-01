@@ -6,4 +6,5 @@ As a member of an incident response team, we are regularly invited to make talks
 
 > What makes great and wonderful teams?
 
+This HOWTO aim is not to give you a panacea on how to make your team or staff great again. But it's just a checklist of potential approaches which could help and support a team to make wonderful things.
 
